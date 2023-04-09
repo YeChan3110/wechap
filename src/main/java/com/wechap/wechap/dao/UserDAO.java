@@ -12,7 +12,6 @@ public class UserDAO {
     private UserMapper um;
 
     public void signUp(UserDTO userDto) {
-        System.out.println("dao");
         um.signUp(userDto);
     }
 }
