@@ -8,5 +8,5 @@
 - Framework : SpringBoot(2.7.0)
 - Database : MySQL 8.0
 - ORM : Mybatis 2.3.0
-- API : Naver Maps/Places, OpenWeatherMap, Whisper, Spoonacular, Edamam
+- API : Naver Maps/Places/Reverse Geocoding, OpenWeatherMap, Whisper, Spoonacular, Edamam
 - Template Engine : Thymeleaf
