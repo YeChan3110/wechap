@@ -4,6 +4,7 @@
   2.
 
 ### 개발 환경<br>
+- OS : window 11
 - Java 11, JavaScript(Jquery), HTML5, CSS
 - JDK 11
 - IDE : IntelliJ, MySQL Workbench
