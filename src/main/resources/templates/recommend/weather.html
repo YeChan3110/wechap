@@ -3,11 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <title>Weather</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/static/js/location.js"></script>
 </head>
+
 <body>
-    <h1>Weather Information</h1>
-    <p class="weather-icon" th:classappend="${icon}"></p>
-    <p th:text="${description}"></p>
-    <p th:text="${temperature}"></p>
+    <p th:text="${'기준 시간 : ' + time}"></p>
+    <p th:text="${'날씨 : ' + description}"></p>
+    <p th:text="${'온도 : ' + temperature}"></p>
+    <button type="button" id="location">현재위치(로컬주소에서만 됨)</button>
+    <p th:text="${'국가 : ' + country}"></p>
+    <p th:text="${'도시 : ' + city}"></p>
+    <p th:text="${'동 : ' + district}"></p>
+<script>
+
+</script>
 </body>
 </html>
