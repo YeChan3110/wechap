@@ -12,3 +12,6 @@
 - ORM : Mybatis 2.3.0
 - API : Naver Maps/Places/Reverse Geocoding, OpenWeatherMap, Whisper, Spoonacular, Edamam
 - Template Engine : Thymeleaf
+
+### 배포 
+ - AWS EC2 (Linux)
