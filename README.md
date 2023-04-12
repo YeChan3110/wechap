@@ -1,5 +1,7 @@
-# wechap
+# wechap(Weather Chapchap)
 메뉴 추천 사이트
+  1. 날씨 기준
+  2.
 
 ### 개발 환경<br>
 - Java 11, JavaScript(Jquery), HTML5, CSS
