@@ -14,6 +14,7 @@ import org.springframework.web.client.RestTemplate;
 
 @Service
 public class MapService {
+
     @Value("${naver.appId}")
     private String apiId;
     @Value("${naver.appKey}")
